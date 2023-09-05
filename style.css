@@ -1,0 +1,10 @@
+.render_table {
+    font-size: 9px;
+    border-collapse: collapse;
+    width:500px;
+    height: 300px;
+}
+
+.render_table td {
+    border: 1px solid black;
+}
